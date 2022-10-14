@@ -13,13 +13,18 @@
 
 ## Usage
 
-### Manual installation
+### Installation
 
-1. Copy the ```schemes``` folder to Black Box data folder
+1. Download the [repository](https://github.com/marcelovbcfilho/black-box.git)
+2. Enter the repository folder
+3. Copy the ```schemes``` folder to Black Box data folder
+
 
 #### Flatpak version install command
     
 ```sh
+git clone https://github.com/marcelovbcfilho/black-box.git
+cd ./black-box
 cp -r ./schemes ~/.var/app/com.raggesilver.BlackBox/data/blackbox
 ```
 
