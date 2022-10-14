@@ -19,9 +19,9 @@
 
 #### Flatpak version install command
     
-    ```shell
-    cp ./schemes ~/.var/app/com.raggesilver.BlackBox/data/blackbox
-    ```
+```sh
+cp ./schemes ~/.var/app/com.raggesilver.BlackBox/data/blackbox
+```
 
 ## Gallery
 
