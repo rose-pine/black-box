@@ -13,17 +13,27 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+### Manual installation
+
+1. Copy the ```schemes``` folder to Black Box data folder
+
+#### Flatpak version install command
+    
+    ```shell
+    cp ./schemes ~/.var/app/com.raggesilver.BlackBox/data/blackbox
+    ```
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Rosé Pine on Black Box](./gallery/rose-pine-gallery.png)
+
+![Rosé Pine Moon on Black Box](./gallery/rose-pine-moon-gallery.png)
+
+![Rosé Pine Dawn on Black Box](./gallery/rose-pine-dawn-gallery.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [Marcelo Vilas Boas Correa Filho](https://github.com/marcelovbcfilho)
 
 ## Contributing
 
