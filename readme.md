@@ -20,7 +20,7 @@
 #### Flatpak version install command
     
 ```sh
-cp ./schemes ~/.var/app/com.raggesilver.BlackBox/data/blackbox
+cp -r ./schemes ~/.var/app/com.raggesilver.BlackBox/data/blackbox
 ```
 
 ## Gallery
