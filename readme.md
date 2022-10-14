@@ -15,9 +15,10 @@
 
 ### Installation
 
-1. Download the [repository](https://github.com/marcelovbcfilho/black-box.git)
-2. Enter the repository folder
-3. Copy the ```schemes``` folder to Black Box data folder
+1. Download Black Box from [source](https://gitlab.gnome.org/raggesilver/blackbox) or from [Flathub](https://flathub.org/apps/details/com.raggesilver.BlackBox)
+2. Download the [repository](https://github.com/marcelovbcfilho/black-box.git)
+3. Enter the repository folder
+4. Copy the ```schemes``` folder to Black Box data folder
 
 
 #### Flatpak version install command
